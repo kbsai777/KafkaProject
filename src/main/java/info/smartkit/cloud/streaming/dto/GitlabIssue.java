@@ -2,6 +2,7 @@ package info.smartkit.cloud.streaming.dto;
 
 
 public class GitlabIssue {
+	/* Git Lab Issues */
 
     private Integer projectId;
     private String title;

@@ -14,6 +14,8 @@ public class SteemComment {
         this.content = content;
         this.tags = tags;
     }
+    
+    /* Steem comment */
 
     public SteemComment() {
     }
