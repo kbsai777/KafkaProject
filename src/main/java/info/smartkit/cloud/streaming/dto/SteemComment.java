@@ -16,6 +16,12 @@ public class SteemComment {
     }
     
     /* Steem comment */
+    /*Steam */
+    
+    
+    
+    /* Commenting */
+     */
 
     public SteemComment() {
     }
