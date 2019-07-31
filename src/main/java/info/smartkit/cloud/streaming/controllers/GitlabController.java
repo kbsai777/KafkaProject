@@ -48,7 +48,7 @@ public class GitlabController {
 
     @RequestMapping(method = RequestMethod.GET, value = "/info")
     @ApiOperation(value = "Response a string describing Gitlab info.")
-//	@ApiImplicitParams({@ApiImplicitParam(name="Authorization", value="Authorization DESCRIPTION")})
+//	@ApiImplicitParams({@ApiImplicitParam(name="Authorization", value="Authorization DESCRIPTION")})) 
     public @ResponseBody
     JsonString info() {
         // Create a GitLabApi instance to communicate with your GitLab server using GitLab API V3
